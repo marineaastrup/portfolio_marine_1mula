@@ -1,0 +1,221 @@
+*{display: center;
+    font-family: 'Abril Fatface', cursive;
+letter-spacing: 10px;}
+h2{font-size: large;}
+
+/*INDEX*/
+
+nav{
+    display: center;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+    padding: 5px;
+    margin: 15px;
+    width: 33%;
+}
+
+#nikotine{
+    width: 300px;
+    
+}
+
+.flexcontainer{
+    display: flex; 
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;}
+
+#et{
+    text-align: center;
+}
+
+#to{
+    text-align: center;
+}
+
+#tre{
+    margin-left: 37%;
+}
+
+
+
+/*OM MIG*/
+
+.ommig{
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    font-size: 45px;
+    color: gray;
+}
+
+#flex-container2{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    padding: 25px;
+}
+
+#flex1{
+    width: 50%;
+}
+
+#flex2{
+    width: 50%;
+    align-items: center;
+
+}
+
+#flex1 img{
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+#flex2 h2{
+    font-size: 50px;
+    background-color: white;
+    padding: 5px;
+}
+#flex2 h3{
+    color: gray;
+    letter-spacing: 5px;
+    background-color: white;
+    padding: 5px;
+}
+#flex2 p{
+    letter-spacing: 5px;
+    background-color: white;
+    padding: 5px;
+}
+
+/*PROJEKTER*/
+
+#flex-container3{
+    display: flex;
+    flex-wrap:wrap ;
+}
+
+#flex-container3 img{
+    width: 200px;
+    padding: 30px;
+}
+#flex-container3 h1{
+    width: 100%;
+    font-size: 50px;
+    color: gray;
+}
+#flex-container3 h2{
+  
+    letter-spacing: 7px;
+    
+}
+#flexi0{
+    align-items: center;
+    padding-right: 525px;
+    padding-left: 550px;
+    position: fixed;
+}
+#flexi1{
+    margin: 50px;
+    padding-top: 100px;
+}
+
+#flexi2{
+    margin: 50px;
+    padding-top: 100px;
+}
+
+#flexi2 img{
+    width: 500px;
+    
+}
+#flexi2 a{
+    justify-content: left;
+    padding:5px;
+    margin: 5px;
+    letter-spacing: 4px;
+    width: 100%;
+}
+
+#flexi3{
+    padding: 500px;
+}
+
+/*KUNST*/
+
+#flex-container4{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#flex-container4 img{
+    width: 500px;
+}
+
+
+
+#flex-container4 div{
+    margin-left: 50px;
+}
+
+#flex-container4 h2{
+    font-size: 45px;
+}
+
+#f3{
+    margin-top: 100px;
+}
+
+#f3 h3{
+    text-decoration: underline;
+    letter-spacing: 3px;
+}
+#f3 p{
+    letter-spacing: 3px;
+    color: gray;
+
+}
+
+#f3 img{
+    width: 1000px;
+}
+
+#f1{
+    align-items: center;
+    padding-right: 525px;
+    padding-left: 550px;
+    position: fixed;
+    color: gray;
+    font-size: 30px;
+}
+
+#f2{
+    margin-top: 100px;
+}
+
+#f4{
+padding-top: 100px;
+}
+
+#f4 h3{
+    text-decoration: underline;
+}
+
+#f4 a{
+    letter-spacing: 4px;
+    margin: 0;
+    padding: 0;
+}
+
+#f4 img{
+    width: 20%;
+}
+#f4 p{
+    letter-spacing: 3px;
+    color: gray;
+}
